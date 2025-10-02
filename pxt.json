@@ -13,7 +13,8 @@
         "main.blocks",
         "main.ts",
         "shims.d.ts",
-        "esp_at_stream_util.cpp",
+        "esp_at_serial.cpp",
+        "esp_at_stream_util.ts",
         "_locales/zh/esp_at-jsdoc-strings.json",
         "_locales/zh/esp_at-strings.json"
     ],
